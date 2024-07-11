@@ -1,4 +1,4 @@
-public class YourApplication extends Application {
+public class test extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
